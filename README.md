@@ -44,7 +44,7 @@
 
 ## Sobre mim
 
-- 💼 Atualmente trabalho com NodeJS, micro-serviços e banco de dados NoSQL para construindo soluções eficientes e escaláveis.
+- 💼 Atualmente trabalho com Node, micro-serviços e banco de dados NoSQL para construindo soluções eficientes e escaláveis.
 - 📖 Estou sempre aprendendo, e, no momento, estou focado em design patters, principios SOLID e em melhorar meu inglês.
 - ⚡ Minha stack principal é Node e React com TypeScript e, sempre que possível, testes unitários.
 
