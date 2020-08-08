@@ -15,21 +15,21 @@
     alt="LinkedIn"
     target="_blank"
   >
-    <img src="https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a
     href="mailto:luanglopes@gmail.com" 
     alt="Email"
     target="_blank"
   >
-    <img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-B23121?style=flat&logo=gmail&logoColor=white" />
   </a>
     <a
     href="https://web.whatsapp.com/send?phone=555193761347&text=Ol%C3%A1%20Luan,%20encontrei%20seu%20perfil%20no%20GitHub" 
     alt="WhatsApp WEB"
     target="_blank"
   >
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&label=WEB" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&label=WEB" />
   </a>
   
   </a>
