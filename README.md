@@ -34,7 +34,7 @@
   
   </a>
     <a
-    href="https://api.whatsapp.com/send?phone=5551993761347&text=Ol%C3%A1%20Luan%2C%20encontrei%20seu%20perfil%20do%20GitHub" 
+    href="https://api.whatsapp.com/send?phone=555193761347&text=Ol%C3%A1%20Luan%2C%20encontrei%20seu%20perfil%20do%20GitHub" 
     alt="WhatsApp Mobile"
     target="_blank"
   >
