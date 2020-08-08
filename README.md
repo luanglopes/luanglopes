@@ -44,8 +44,8 @@
 
 ## Sobre mim
 
-- 💼 Trabalho em uma empresa do ramo financeiro com NodeJS, arquitetura de microserviços, construindo soluções eficientes e escaláveis.
+- 💼 Atualmente trabalho com NodeJS, arquitetura de microserviços e banco de dados NoSQL para construindo soluções eficientes e escaláveis.
 - 📖 Estou sempre aprendendo, e, no momento, estou focado em design patters, principios SOLID e em melhorar meu inglês.
-- ⚡ Minha stack principal é Node e React com TypeScript e, sempre que possível, com testes unitários.
+- ⚡ Minha stack principal é Node e React com TypeScript e, sempre que possível, testes unitários.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=luanglopes&show_icons=true)
