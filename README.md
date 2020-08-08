@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" />
   </a>
     <a
-    href="https://api.whatsapp.com/send?phone=5551993761347&text=Hello%20i%20came%20from%20your%20site" 
+    href="https://api.whatsapp.com/send?phone=5551993761347&text=Ol%C3%A1%20Luan%2C%20encontrei%20seu%20perfil%20do%20GitHub" 
     alt="WhatsApp"
     target="_blank"
   >
