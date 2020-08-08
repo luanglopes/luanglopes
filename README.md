@@ -38,7 +38,7 @@
     alt="WhatsApp Mobile"
     target="_blank"
   >
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&label=Mobile" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&label=Mobile" />
   </a> 
 </p>
 
