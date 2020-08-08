@@ -26,16 +26,16 @@
   </a>
     <a
     href="https://web.whatsapp.com/send?phone=555193761347&text=Ol%C3%A1%20Luan,%20encontrei%20seu%20perfil%20no%20GitHub" 
-    alt="WhatsApp"
+    alt="WhatsApp WEB"
     target="_blank"
   >
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&label=WEB" />
   </a>
   
   </a>
     <a
     href="https://api.whatsapp.com/send?phone=5551993761347&text=Ol%C3%A1%20Luan%2C%20encontrei%20seu%20perfil%20do%20GitHub" 
-    alt="WhatsApp"
+    alt="WhatsApp Mobile"
     target="_blank"
   >
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&label=Mobile" />
