@@ -35,7 +35,7 @@
 
 ## Sobre mim
 
-- 🔭 Atualmente trabalho em uma empresa do ramo fiananceiro, onde utilizo NodeJS e arquitetura de microserviços para construir soluções eficientes e escaláveis.
+- 💼 Atualmente trabalho em uma empresa do ramo fiananceiro, onde utilizo NodeJS e arquitetura de microserviços para construir soluções eficientes e escaláveis.
 - 📖 Estou sempre aprendendo, e no momento, estou focado em design patters, principios SOLID e em melhorar meu inglês.
 - ⚡ Minha stack principal é Node e React com TypeScript e, sempre que possível, com testes unitários.
 
