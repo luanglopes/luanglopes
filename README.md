@@ -29,8 +29,17 @@
     alt="WhatsApp"
     target="_blank"
   >
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp%20Web&logoColor=white" />
   </a>
+  
+  </a>
+    <a
+    href="https://api.whatsapp.com/send?phone=5551993761347&text=Ol%C3%A1%20Luan%2C%20encontrei%20seu%20perfil%20do%20GitHub" 
+    alt="WhatsApp"
+    target="_blank"
+  >
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp%20Mobile&logoColor=white" />
+  </a> 
 </p>
 
 ## Sobre mim
