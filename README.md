@@ -29,7 +29,7 @@
     alt="WhatsApp"
     target="_blank"
   >
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp%20Web&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
   
   </a>
@@ -38,7 +38,7 @@
     alt="WhatsApp"
     target="_blank"
   >
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp%20Mobile&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a> 
 </p>
 
