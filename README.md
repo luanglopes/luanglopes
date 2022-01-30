@@ -42,10 +42,10 @@
   </a> 
 </p>
 
-## Sobre mim
+## About me
 
-- 💼 Atualmente trabalho com Node, React, SSR e micro-serviços para construir soluções eficientes e escaláveis.
-- 📖 Estou sempre aprendendo e, no momento, estou focado em design patterns, principios SOLID e melhorar meu inglês.
-- ⚡ Minha stack principal é Node e React com TypeScript e, sempre que possível, testes unitários.
+- 💼 Currently I'm working with Node, React, AWS and microservices to create efficient and scalable solutions.
+- 📖 I'm always leaning, currently I'm focused on design patterns, SOLID principles and improve my english.
+- ⚡ My main stack is Node and React with TypeScript, and wherever it possible, some unit tests.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=luanglopes&show_icons=true)
