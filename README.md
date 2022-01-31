@@ -50,5 +50,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=luanglopes&show_icons=true)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="luanglopes" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/luanglopes/en?trk=profile-badge">Luan Lopes</a></div>
               
