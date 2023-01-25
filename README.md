@@ -1,7 +1,7 @@
 <h1 align="center">Luan Lopes</h1>
 
 <p align="center">
-  Fullsatck Developer<br />
+  Fullsatck Engineer<br />
   <b>🚀🎮💻🍕☕</b>
 </p>
 
@@ -44,8 +44,8 @@
 
 ## About me
 
-- 💼 Currently I'm working with Node, React, AWS and microservices to create efficient and scalable solutions.
+- 💼 Currently I'm working with Node, React, AWS, Serverless and microservices to create efficient and scalable solutions.
 - 📖 I'm always leaning, currently I'm focused on design patterns, SOLID principles and improve my english.
-- ⚡ My main stack is Node and React with TypeScript, and wherever it possible, some unit tests.
+- ⚡ My main stack is Node and Svelte with TypeScript, and whenever possible, some unit tests.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=luanglopes&show_icons=true)
