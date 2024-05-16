@@ -44,7 +44,7 @@
 
 ## About me
 
-- 💼 Currently I'm working with Node, React, AWS, Serverless and microservices to build efficient and scalable solutions.
+- 💼 Currently I'm working with Node, React, TypeScript, Azure and ChatGPT to build efficient and scalable solutions.
 - 📖 I'm always leaning, currently I'm focused on design patterns and SOLID principles.
 - ⚡ My main stack is Node and Svelte (or React) with TypeScript and, whenever possible, unit tests.
 - 📦 I have published an NPM package that has more 3k weekly downloads: [ts-paths-esm-loader](https://www.npmjs.com/package/ts-paths-esm-loader)
