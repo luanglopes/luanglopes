@@ -45,7 +45,7 @@
 ## About me
 
 - 💼 Currently I'm working with Node, React, AWS, Serverless and microservices to build efficient and scalable solutions.
-- 📖 I'm always leaning, currently I'm focused on design patterns, SOLID principles and improve my english.
-- ⚡ My main stack is Node and Svelte with TypeScript and, whenever possible, some unit tests.
+- 📖 I'm always leaning, currently I'm focused on design patterns and SOLID principles.
+- ⚡ My main stack is Node and Svelte (or React) with TypeScript and, whenever possible, unit tests.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=luanglopes&show_icons=true)
