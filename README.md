@@ -47,6 +47,6 @@
 - 💼 Currently I'm working with Node, React, AWS, Serverless and microservices to build efficient and scalable solutions.
 - 📖 I'm always leaning, currently I'm focused on design patterns and SOLID principles.
 - ⚡ My main stack is Node and Svelte (or React) with TypeScript and, whenever possible, unit tests.
-- 📦 I have publisehd and NPM package: [ts-paths-esm-loader](https://www.npmjs.com/package/ts-paths-esm-loader)
+- 📦 I have published an NPM package that has more 3k weekly downloads: [ts-paths-esm-loader](https://www.npmjs.com/package/ts-paths-esm-loader)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=luanglopes&show_icons=true)
